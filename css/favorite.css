@@ -1,0 +1,19 @@
+h1{
+    color: palevioletred;
+}
+h2{
+    color:plum;
+    font-style: italic;
+    text-align: center;
+
+}
+p{
+    font-family: sans-serif;
+
+}
+ul{
+    line-height: 40px;
+}
+body{
+     background-color: pink
+}
